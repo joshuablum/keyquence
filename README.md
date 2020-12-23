@@ -10,3 +10,14 @@ Also allows to **record a sequence** of keys and **export them** in different fo
 * [Tailwind CSS](https://tailwindcss.com)
 * [Alpine.js](https://github.com/alpinejs/alpine)
 * [🐰🥚](https://en.wikipedia.org/wiki/Easter_egg_(media))
+
+| Property | Value | "Result" |
+| ------- | ------- | ------- |
+| keyCode | XX | XX |
+| code | XX | XX |
+| key | XX | XX |
+
+More information on the properties:
+* [keyCode](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode)
+* [code](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/code)
+* [key](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
