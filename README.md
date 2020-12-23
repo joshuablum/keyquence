@@ -1,7 +1,7 @@
 # Keyquence
 ## A tool to get the keyCode (deprecated), key and code.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/XXXXXXXXXXXXXX/deploy-status)](https://app.netlify.com/sites/joshuablum/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7ba6e59c-73a6-4759-8f06-0f972a09897c/deploy-status)](https://app.netlify.com/sites/keyquence/deploys)
 
 Also allows to **record a sequence** of keys and **export them** in different formats (array, string etc.)
 
